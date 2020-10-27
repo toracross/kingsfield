@@ -11,7 +11,7 @@
 		},
 		{
 			"Name": "DragonIKPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3f3985e9eb40414aaabf645791fa4916"
 		},
 		{
@@ -21,7 +21,7 @@
 		},
 		{
 			"Name": "Switcheroo",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/a3c3df70dba84629acec53ed9f9d8a00"
 		}
 	]
